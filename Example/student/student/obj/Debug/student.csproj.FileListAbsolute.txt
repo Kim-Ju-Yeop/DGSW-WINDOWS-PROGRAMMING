@@ -1,0 +1,11 @@
+C:\Users\jueyop\source\repos\student\student\bin\Debug\student.exe.config
+C:\Users\jueyop\source\repos\student\student\bin\Debug\student.exe
+C:\Users\jueyop\source\repos\student\student\bin\Debug\student.pdb
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.csprojAssemblyReference.cache
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.Form1.resources
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.exe
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.pdb
+C:\Users\jueyop\source\repos\student\student\obj\Debug\student.Form2.resources
